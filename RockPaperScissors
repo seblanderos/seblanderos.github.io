@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head> Let's Play Rock, Paper, Scissors!!!</head>
+<body>
+<script>
 let wins = 0;
 let ties = 0;
 let losses = 0;
@@ -46,3 +51,6 @@ while (true) {
 }
 
 alert(`Game Over!\nFinal Score:\nWins: ${wins} | Ties: ${ties} | Losses: ${losses}`);
+</script>
+</body>
+</html>
